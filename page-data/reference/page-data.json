@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-reference-index-md",
+    "path": "/reference/",
+    "result": {"pageContext":{"frontmatter":{"title":"GraphQL Mesh Documentation | API Mesh for Adobe Developer App Builder","description":"Versioned documentation republished from the GraphQL Mesh documentation site (under the MIT license)."}}},
+    "staticQueryHashes": ["915530536"]}
